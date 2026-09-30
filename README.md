@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Samarth Sathya Karthik`
+- **CCID:** `sathyaka`
 
 ## References and Resources
 
